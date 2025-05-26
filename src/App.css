@@ -1,0 +1,29 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+}
+
+.app{
+  width: 36vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title-section{
+  width: 36vw;
+  justify-content: center;
+}
+
+.reset-btn{
+  width: 20%;
+}
+
+.box{
+  width: 36vw;
+  height: 60vh;
+}

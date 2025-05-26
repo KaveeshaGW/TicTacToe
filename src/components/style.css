@@ -1,0 +1,6 @@
+.individual-tile{
+    width: 12vw;
+    height: 20vh;
+    border: 1px solid white;
+    background-color: #d3d3d2;
+}
